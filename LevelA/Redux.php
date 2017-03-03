@@ -18,8 +18,8 @@ class Redux
      */
     public function getReductedNumber()
     {
-        $result = $this->number;
-        // @TODO
-        return $result;
+        $this->number = array_sum(str_split($this->number));
+
+        return $this->number > 9 ? $this->getReductedNumber() : $this->number;
     }
 };
