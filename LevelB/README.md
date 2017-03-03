@@ -1,6 +1,7 @@
 ## Exercice du Niveau B
 
-Même exercice que A, mais vous devez battre la réference en termes de temps (Une marge de plusieurs centaines microsecondes est prévue)
+Même exercice que A, mais vous devez battre la réference en termes de temps
+ (Une marge de plusieurs centaines microsecondes est prévue)
 
 Exemples 
 
